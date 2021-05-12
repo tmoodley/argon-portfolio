@@ -3,17 +3,17 @@
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                    <a target="_blank" rel="noopener" href="https://twitter.com/zackproser"
+                    <a target="_blank" rel="noopener" href="https://twitter.com/tmoodley"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="https://codepen.io/zackproser"
+                    <a target="_blank" rel="noopener" href="https://codepen.io/tmoodley"
                        class="btn btn-neutral btn-icon-only btn-dribbble btn-lg btn-round" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fab fa-codepen"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="https://github.com/zackproser"
+                    <a target="_blank" rel="noopener" href="https://github.com/tmoodley"
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
                         <i class="fab fa-github"></i>
@@ -25,7 +25,7 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="https://zackproser.com" target="_blank" rel="noopener">Zack Proser</a>
+                        <a href="https://tyronemoodley.netlify.com" target="_blank" rel="noopener">Tyrone Moodley</a>
                     </div>
                 </div>
                 <div class="col-md-6">
