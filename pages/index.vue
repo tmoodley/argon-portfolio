@@ -10,8 +10,8 @@
                 <div class="card-profile-image">
                   <a href="#">
                     <img
-                      alt="Zack Proser profile"
-                      v-lazy="'/zachary-proser.png'"
+                      alt="Tyrone Moodley profile"
+                      v-lazy="'/tyronemoodley.jpg'"
                       class="rounded-circle"
                     />
                   </a>
@@ -21,13 +21,13 @@
                 class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center"
               >
                 <div class="card-profile-actions py-4 mt-lg-0">
-                  <a href="https://linkedin.com/in/zackproser"
+                  <a href="https://linkedin.com/in/tyronemoodley"
                     ><base-button type="info" size="sm" class="mr-4"
                       ><i class="fab fa-linkedin mr-2"></i>
                       LinkedIn</base-button
                     ></a
                   >
-                  <a href="https://github.com/zackproser"
+                  <a href="https://github.com/tmoodley"
                     ><base-button type="default" size="sm" class="float-right"
                       ><i class="fab fa-github mr-2"></i>GitHub</base-button
                     ></a
@@ -42,7 +42,7 @@
             </div>
             <div class="text-center mt-5">
               <h2>
-                Zack Proser
+                Tyrone Moodley
                 <span class="font-weight-light"></span>
               </h2>
             </div>
@@ -53,15 +53,11 @@
                     I am a full-stack
                     <nuxt-link class="text-link" to="/software"
                       >software engineer</nuxt-link
-                    >
-                    and
-                    <a href="https://art.zackproser.com" class="text-link"
-                      >artist</a
-                    >
+                    > 
                     at
-                    <a href="https://gruntwork.io/"
+                    <a href="https://mcap.com/"
                       ><span class="text-primary company-name"
-                        >Gruntwork.io</span
+                        >Mcap.com</span
                       >.</a
                     >
                     I
