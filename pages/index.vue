@@ -115,8 +115,7 @@
                   </b-list-group>
 
                   <p class="mt-3">
-                    I am also a certified AWS Solutions Architect Associate,
-                    Hashicorp Terraform Associate and AWS Cloud Practitioner.
+                    I have 3 degrees in Software Engineering, Cyber Security, and Accounting.
                   </p>
                 </div>
                 <div class="container">
