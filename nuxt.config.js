@@ -46,9 +46,9 @@ module.exports = {
    ** https://developer.mozilla.org/en-US/docs/Web/Manifest
    */
   manifest: {
-    name: 'Zack Proser Portfolio',
-    short_name: 'Zack Proser',
-    description: 'Software engineer and artist',
+    name: 'Tyrone Moodley Portfolio',
+    short_name: 'Tyrone Moodley',
+    description: 'Software engineer',
     theme_color: '#172b4d',
   },
 
