@@ -48,113 +48,11 @@
             </div>
             <div class="mt-5 py-5 border-top text-center">
               <div class="row justify-content-center">
-                <div class="col-lg-9">
-                  <p>
-                    I am a full-stack
-                    <nuxt-link class="text-link" to="/software"
-                      >software engineer</nuxt-link
-                    > 
-                    at
-                    <a href="https://mcap.com/"
-                      ><span class="text-primary company-name"
-                        >Mcap.com</span
-                      >.</a
-                    >
-                    I
-                    <a href="https://github.com/zackproser" class="text-link"
-                      >open source</a
-                    >
-                    much of my software and
-                    <nuxt-link to="/articles" class="text-link"
-                      >write technical tutorials and articles</nuxt-link
-                    >.
-                  </p>
-                  <p>My technical writing has appeared on:</p>
-
-                  <b-list-group horizontal="sm">
-                    <a
-                      href="https://blog.cloudflare.com/author/zackp/"
-                      target="_blank"
-                    >
-                      <b-list-group-item variant="warning" class="blog-warning">
-                        Cloudflare Blog
-                      </b-list-group-item></a
-                    >
-                    <a
-                      href="https://itnext.io/building-the-ultimate-portfolio-site-with-nuxt-js-and-netlify-beautiful-blazing-fast-100-seod-102913a60cfd"
-                      target="_blank"
-                    >
-                      <b-list-group-item variant="info" class="blog-info"
-                        >ITNEXT
-                      </b-list-group-item></a
-                    >
-                    <a
-                      href="https://levelup.gitconnected.com/hacking-iframe-badges-into-auto-updating-github-profile-images-with-aws-lambda-and-golang-d6fbf78d6f6d"
-                      target="_blank"
-                    >
-                      <b-list-group-item variant="danger" class="blog-danger"
-                        >gitconnected
-                      </b-list-group-item></a
-                    >
-                    <a
-                      href="https://medium.com/swlh/building-a-catfacts-pranking-service-in-golang-5b51e8721fe2"
-                      target="_blank"
-                    >
-                      <b-list-group-item variant="light" class="blog-light"
-                        >Start it up
-                      </b-list-group-item></a
-                    >
-                    <a
-                      href="https://blog.gruntwork.io/introducing-git-xargs-an-open-source-tool-to-update-multiple-github-repos-753f9f3675ec"
-                      target="_blank"
-                    >
-                      <b-list-group-item variant="success" class="blog-success"
-                        >Gruntwork Blog
-                      </b-list-group-item></a
-                    >
-                  </b-list-group>
-
+                <div class="col-lg-9"> 
                   <p class="mt-3">
                     I have 3 degrees in Software Engineering, Cyber Security, and Accounting.
                   </p>
-                </div>
-                <div class="container">
-                  <div class="row row-fluid">
-                    <div class="col-4">
-                      <a
-                        href="https://www.youracclaim.com/badges/baf2a178-fbb6-4e3b-bee3-a4e51bf1ecb4/public_url"
-                      >
-                        <img
-                          class="img shadow certification"
-                          alt="AWS Solutions Architect Associate"
-                          v-lazy="'/aws-solutions-architect-assoc.png'"
-                        />
-                      </a>
-                    </div>
-                    <div class="col-4">
-                      <a
-                        href="https://www.youracclaim.com/badges/db9c63f6-1449-441d-b1b4-19b4fb3c76e5/public_url"
-                      >
-                        <img
-                          class="img shadow certification"
-                          alt="Terraform Associate"
-                          v-lazy="'/terraform-associate.png'"
-                        />
-                      </a>
-                    </div>
-                    <div class="col-4">
-                      <a
-                        href="https://www.youracclaim.com/badges/94158be5-a0ea-4de4-9c66-5c087fac246e/public_url"
-                      >
-                        <img
-                          class="img shadow certification"
-                          alt="AWS Cloud Practitioner"
-                          v-lazy="'/aws-cloud-practitioner.png'"
-                        />
-                      </a>
-                    </div>
-                  </div>
-                </div>
+                </div> 
               </div>
             </div>
           </div>
